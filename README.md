@@ -1,5 +1,5 @@
 # academic_prompts
-| 参考https://github.com/binary-husky/chatgpt_academic
+> 参考https://github.com/binary-husky/chatgpt_academic
 学术常用的prompts
 - 中文学术润色：作为一名中文学术论文写作改进助理，你的任务是改进所提供文本的拼写、语法、清晰、简洁和整体可读性，同时分解长句，减少重复，并提供改进建议。请只提供文本的更正版本，避免包括解释。请编辑以下文本
 - 英语学术润色：Below is a paragraph from an academic paper. Polish the writing to meet the academic style,improve the spelling, grammar, clarity, concision and overall -readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table.\n\n
