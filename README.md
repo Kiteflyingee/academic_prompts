@@ -3,6 +3,31 @@
 
 学术常用的 Prompts 集合。
 
+## 目录
+
+- [1. 润色与纠错 (Polishing & Correction)](#1-润色与纠错-polishing--correction)
+    - [中文学术润色](#中文学术润色)
+    - [英语学术润色](#英语学术润色)
+    - [查找语法错误](#查找语法错误)
+    - [Latex 英文润色](#latex-英文润色)
+    - [Latex 中文润色](#latex-中文润色)
+    - [AIGC内容“降AI味”](#aigc内容降ai味)
+- [2. 翻译 (Translation)](#2-翻译-translation)
+    - [中译英](#中译英)
+    - [英译中](#英译中)
+    - [学术中英互译](#学术中英互译)
+- [3. 阅读与写作辅助 (Reading & Writing Support)](#3-阅读与写作辅助-reading--writing-support)
+    - [高效阅读论文](#高效阅读论文)
+    - [优化文章结构](#优化文章结构)
+    - [解释代码](#解释代码)
+- [4. 研究与选题 (Research & Topic Selection)](#4-研究与选题-research--topic-selection)
+    - [论文选题](#论文选题)
+    - [研究思路](#研究思路)
+    - [技术方案](#技术方案)
+- [5. 代码辅助 (Code Assistance)](#5-代码辅助-code-assistance)
+    - [代码架构分析](#代码架构分析)
+    - [代码自动注释](#代码自动注释)
+
 ## 1. 润色与纠错 (Polishing & Correction)
 
 ### 中文学术润色
